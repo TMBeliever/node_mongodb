@@ -1,0 +1,26 @@
+{
+  "name": "imooc-by nssmj",
+  "authors": [
+    "Jian Mo <651252113@qq.com>"
+  ],
+  "description": "node+mongodb",
+  "main": "",
+  "keywords": [
+    "node",
+    "mongodb"
+  ],
+  "license": "nssmj",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
